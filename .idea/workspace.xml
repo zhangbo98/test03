@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a345cd1-f2fa-4942-8e3f-c0d7f3a01449" name="Default Changelist" comment="第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bigdata/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bigdata/Application.java" afterDir="false" />
     </list>
@@ -94,6 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577102119899</updated>
       <workItem from="1577102123080" duration="1121000" />
+      <workItem from="1577103372509" duration="276000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1577102518397</created>
@@ -160,10 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577102123090" />
-    <state x="1105" y="278" key="git4idea.merge.GitPullDialog" timestamp="1577103264199">
+    <state x="1105" y="278" key="git4idea.merge.GitPullDialog" timestamp="1577103658693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1105" y="278" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577103264199" />
+    <state x="1105" y="278" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577103658693" />
     <state x="434" y="297" key="new project wizard" timestamp="1577102160326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
